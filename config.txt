@@ -1,6 +1,6 @@
 token=NTUwOTYwODk3OTQyODgwMjU3.D1qB3A.QpDcslTc8xBnzzQfcHiYVpnAE_Q
 owner=476958270175838222
-prefix= 1m
+prefix= dash
 game=
 stayinchannel=true
 songinstatus=false
